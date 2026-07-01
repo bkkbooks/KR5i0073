@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR5i0073/CK-KZ-jye/v1/juan/6
+seq: 6
+front:
+  text: 玉詮重刋道藏輯要
+  hash: sha256:45751c437a9478d6b988050fd8ce16383b8fcb526cc9a614976b9514f6272cc4
+  markers:
+  - {type: page-break, offset: 2, content: '', id: CK-KZ_KR5i0073_06p001a}
+body:
+  text: 玉詮卷之四目錄劉大天君朱大天君王大天君關大天君
+  hash: sha256:4a71a274bde31ff82e5a42d3fabf7f2b75b60a51b78a15e2956a08abd9646a6b
+metadata:
+  title: 玉詮
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 17:55:33.305177'
+  source:
+    repository: kanripo
+    path: KR5i0073/KR5i0073_006.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:27c2082af62285b347d0a56b9bec0bf0231b424d0676c472db18d7813f39f22e

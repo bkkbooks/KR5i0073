@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0073/krp/v1/juan/8
+seq: 8
+front:
+  text: 玉詮重刋道藏輯要
+  hash: sha256:45751c437a9478d6b988050fd8ce16383b8fcb526cc9a614976b9514f6272cc4
+  markers:
+  - {type: page-break, offset: 2, content: '', id: CK-KZ_KR5i0073_08p001a}
+body:
+  text: 玉詮卷五目録正一天師葛真人許真人韓真人薩真人白真人羅真人南華真人赤松真人陶真人李真人邲馮二真人祁真人陳真人蘇真人
+  hash: sha256:45e5adb75b3e4de01a2e29e6f3d0b283652f863f2e9c5b546c5af7143011bdbe
+metadata:
+  title: 玉詮
+  edition:
+    short: krp
+  base_edition: CK-KZ
+  date: '2015-08-29 17:55:33.305177'
+  source:
+    repository: kanripo
+    path: KR5i0073/KR5i0073_008.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:86bf20111f6662fb60317c6ffdde347e1c044ff65977d1bc34359e2d31530477

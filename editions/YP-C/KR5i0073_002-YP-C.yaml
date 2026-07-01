@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0073/YP-C/v1/juan/2
+seq: 2
+front:
+  text: 道藏輯要
+  hash: sha256:500c00aa7ffe213331e46ef109db457bdddfeac3f44043d09e7ca5015d06f6ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: YP-C_KR5i0073_23guiji-01-0109b}
+body:
+  text: 玉詮卷二目錄白上仙青羅大真人楊大真人朱大真人王大真人郁大真人鄧大真人
+  hash: sha256:d8d5cd9cdbb296db527ff9973f8b1a92c1c700da8c402bab3a5182fc718a6052
+metadata:
+  title: 玉詮
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 17:55:33.305177'
+  source:
+    repository: kanripo
+    path: KR5i0073/KR5i0073_002.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:980f74926bfec2f7ff6cfd5d070d1a249ef8b97f4cf2593859293907c803ceaf

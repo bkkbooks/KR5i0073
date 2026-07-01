@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0073/YP-C/v1/juan/4
+seq: 4
+front:
+  text: 道藏輯要
+  hash: sha256:500c00aa7ffe213331e46ef109db457bdddfeac3f44043d09e7ca5015d06f6ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: YP-C_KR5i0073_23guiji-02-0073b}
+body:
+  text: 玉詮卷三目錄八大金神四大天君白大天君
+  hash: sha256:af6e151bbe96bde978d9d6e4de2dded9fbcc5f31855143a21aab1564a3e5aa67
+metadata:
+  title: 玉詮
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 17:55:33.305177'
+  source:
+    repository: kanripo
+    path: KR5i0073/KR5i0073_004.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:16b3621376c621561c67fa1f8a85a79e6027392a90960d02c7a0dd1f3b683afe

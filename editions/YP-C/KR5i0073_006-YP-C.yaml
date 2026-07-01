@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0073/YP-C/v1/juan/6
+seq: 6
+front:
+  text: 道藏輯要
+  hash: sha256:500c00aa7ffe213331e46ef109db457bdddfeac3f44043d09e7ca5015d06f6ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: YP-C_KR5i0073_23guiji-03-0068b}
+body:
+  text: 玉詮卷之四目錄劉大天君朱大天君王大天君關大天君
+  hash: sha256:4a71a274bde31ff82e5a42d3fabf7f2b75b60a51b78a15e2956a08abd9646a6b
+metadata:
+  title: 玉詮
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 17:55:33.305177'
+  source:
+    repository: kanripo
+    path: KR5i0073/KR5i0073_006.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:a553d3eb2bac5973570eebe544c64ef0ecedc187d0674ee805044d47b739fa4f
