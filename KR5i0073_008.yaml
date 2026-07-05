@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 2, content: '', id: CK-KZ_KR5i0073_08p001a}
 body:
-  text: 玉詮卷五目録正一天師葛真人許真人韓真人薩真人白真人羅真人南華真人赤松真人陶真人李真人邲馮二真人祁真人陳真人蘇真人
-  hash: sha256:45e5adb75b3e4de01a2e29e6f3d0b283652f863f2e9c5b546c5af7143011bdbe
+  text: 玉詮卷五目錄正一天師葛眞人許眞人韓眞人薩眞人白眞人羅眞人南華眞人赤松眞人陶眞人李眞人邲馮二眞人祁眞人陳眞人蘇眞人
+  hash: sha256:26bded414ada86615570d2c684cf9fe446f1e4e7d5400580598d5fed80685f93
 metadata:
   title: 玉詮
   edition:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:86bf20111f6662fb60317c6ffdde347e1c044ff65977d1bc34359e2d31530477
+hash: sha256:61eb00916f4be22ca592987691cbf3a913f80f7f078f079cf0c2f91a95701d54

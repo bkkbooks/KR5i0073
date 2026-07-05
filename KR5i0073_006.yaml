@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 2, content: '', id: CK-KZ_KR5i0073_06p001a}
 body:
-  text: 玉詮卷之四目録劉大天君朱大天君王大天君關大天君
-  hash: sha256:c8b3efeb4239fdbe014002222e75427a5e09ce738eea67451d94612e0e365f78
+  text: 玉詮卷之四目錄劉大天君朱大天君王大天君關大天君
+  hash: sha256:4a71a274bde31ff82e5a42d3fabf7f2b75b60a51b78a15e2956a08abd9646a6b
 metadata:
   title: 玉詮
   edition:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:ee7d075e191e8475322599d72f56cfc62fe18421634036f10c3bacfa2e544835
+hash: sha256:484a5db477b8fb6b854db0fb03ead95c78b81593ed58c76651ac80f73ae59b7d

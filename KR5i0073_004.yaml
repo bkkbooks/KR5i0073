@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 2, content: '', id: CK-KZ_KR5i0073_04p001a}
 body:
-  text: 玉詮卷三目録八大金神四大天君白大天君
-  hash: sha256:04434d3da9f9a7abbe16447f8380c34d8ce246635ad3944bd38e18d726d303fd
+  text: 玉詮卷三目錄八大金神四大天君白大天君
+  hash: sha256:af6e151bbe96bde978d9d6e4de2dded9fbcc5f31855143a21aab1564a3e5aa67
 metadata:
   title: 玉詮
   edition:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:8067b7e920fc9ac48916a0af8833f9aa8611d24fab31deef7dcb3852b0da53a1
+hash: sha256:534c62548bee1b9fcde24dad1ebc7248ac594e8953b45618bf9f1b865d1b8bb1
