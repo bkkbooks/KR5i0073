@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR5i0073/krp/v1/juan/2
 seq: 2
 front:
-  text: 玉詮重刋道藏輯要玉詮卷二目錄
-  hash: sha256:12c69cbca5ccbeb8436d0d02b2f3a7223db29b5e56c47680f61d1e523001042e
+  text: 玉詮重刋道藏輯要玉詮卷二目録
+  hash: sha256:78a118770a5653bdbe33cd2fcb01d8acf5a18646e9420b97bcd46ffc861760cb
   markers:
   - {type: page-break, offset: 2, content: '', id: CK-KZ_KR5i0073_02p001a}
 body:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:dd91d3db34ac0cf7b2ddfb7618bb5e5c17c502104f07f39f516d0d4735c8f5fe
+hash: sha256:9db7f7046b009f715b8ef1280dd7a3b85ce71eec27cdf13d9cda69a12f2ceb89
